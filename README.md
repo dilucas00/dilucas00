@@ -15,7 +15,6 @@
 - 🚀 Em busca constante de desafios para expandir meus conhecimentos
 - 🌱 Atualmente mergulhado em React e Node.js
 - 🤝 Aberto para colaborações em projetos inovadores
-- 🧠 Aprendizado contínuo como filosofia de vida
 </p>
 
 ---
@@ -41,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?dilucas00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?dilucas00&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -61,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet" alt="Visualizações do perfil">
+  <img src="https://komarev.com/ghpvc/?dilucas00&color=blueviolet" alt="Visualizações do perfil">
   <br>
   <em>✨ "Um passo de cada vez, sempre evoluindo!" ✨</em>
 </p>
