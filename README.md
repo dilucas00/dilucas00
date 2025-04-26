@@ -1,10 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
           
- 👋 Olá, me chamo Gabriel Di Lucas Santos 
+#👋 Olá, me chamo Gabriel Di Lucas Santos 
 
-**🎓 Estudante de Análise e Desenvolvimento de Sistemas**  
-**📌 3º Período - Faculdade Senac**  
-**💡 Foco Atual: Desenvolvimento Web Full Stack**
+** - Estudante de Análise e Desenvolvimento de Sistemas**  
+** - 3º Período - Faculdade Senac(Embarque Digital)**  
+** - Foco Atual: Desenvolvimento Web Full Stack**
 
 ---
 
