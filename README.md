@@ -19,6 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas | 3º Período - Faculdade S
 📫 Como me encontrar
 LinkedIn  www.linkedin.com/in/gabriel-dilucas-santos 
 
-E-mail: seuemail@example.com  gabrieldilucas00@gmail.com 
+E-mail: gabrieldilucas00@gmail.com 
 
 ✨ Um passo de cada vez, sempre evoluindo!
