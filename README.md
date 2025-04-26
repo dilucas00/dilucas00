@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/dilucas00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?dilucas00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?dilucas00&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilucas00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilucas00&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center" style="display: flex; gap: 15px; justify-content: center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-dilucas-santos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dilucas-santos)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldilucas00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilucas00)
 
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?dilucas00&color=blueviolet" alt="Visualizações do perfil">
+  <img src="https://komarev.com/ghpvc/?username=dilucas00&color=blueviolet" alt="Visualizações do perfil">
   <br>
   <em>✨ "Um passo de cada vez, sempre evoluindo!" ✨</em>
 </p>
