@@ -39,7 +39,7 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/dilucas00">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?dilucas00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?dilucas00&layout=compact&langs_count=7&theme=dracula"/>
   </a>
