@@ -3,7 +3,7 @@
 # 👋 Olá, me chamo Gabriel Di Lucas Santos 
 
 **- Estudante de Análise e Desenvolvimento de Sistemas**  
-**- 3º Período - Faculdade Senac(Embarque Digital)**  
+**- 4º Período - Faculdade Senac(Embarque Digital)**  
 **- Foco Atual: Desenvolvimento Web Full Stack**
 
 ---
